@@ -1,6 +1,6 @@
-### Hello World! 👋
+# Hello Visitor! 👋
 
-My ![Visitor Count](https://profile-counter.glitch.me/ljs-2002/count.svg) visitor
+You are my ![Visitor Count](https://profile-counter.glitch.me/ljs-2002/count.svg) visitor
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ljs-2002&layout=compact)](https://github.com/ljs-2002/github-readme-stats)
 <!--
